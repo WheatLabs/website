@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+html {
+	background-color: wheat;
+	font-family: 'Neucha', cursive;
+}
+
+.header {
+	border-radius: 15px;
+	border: 2px solid black;
+	color: black;
+}
