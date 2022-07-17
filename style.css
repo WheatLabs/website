@@ -1,12 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
 
 html {
-	background-color: wheat;
+	background-color: #e38046;
 	font-family: 'Neucha', cursive;
 }
 
 .header {
-	border-radius: 15px;
+	border-radius: 10px;
 	border: 2px solid black;
 	color: black;
+}
+
+.logo {
+	height: 70px;
+	width: 70px;
+}
+
+.nav-container {
+	background-color: #c96e38;
+	margin-right: auto;
+	text-aligin: center;
+	border-radius: 10px
+}
+
+.inline {
+	display: inline;
+}
+
+.name {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.nav-spacer {
+	width: auto;
 }
